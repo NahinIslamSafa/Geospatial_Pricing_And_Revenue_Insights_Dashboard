@@ -9,21 +9,25 @@ The data was prepared and analyzed to develop an interactive dashboard that prov
 ## Key Analysis Areas
 
 ### Pricing Analysis
+
 - Average price by number of bedrooms
 - Comparison of average prices across ZIP codes
 - Identification of differences in property pricing across locations
 
 ### Geographic Analysis
+
 - Visualization of average property prices by ZIP code
 - Geographic comparison of pricing using an interactive map
 - Identification of higher- and lower-priced areas
 
 ### Revenue Analysis
+
 - Analysis of revenue trends over time
 - Examination of changes in revenue throughout the year
 - Identification of overall revenue patterns across the observed period
 
 ### Listing Analysis
+
 - Number of listings by bedroom count
 - Comparison of listing distribution across different property sizes
 
@@ -38,6 +42,10 @@ The Tableau dashboard provides an interactive view of:
 - Listings by Bedroom Count
 
 The dashboard combines categorical, geographic, and time-series visualizations to make pricing and revenue patterns easier to compare and interpret.
+
+### Tableau Public
+
+🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/nahin.islam.safa8388/viz/GeospatialPricing/Dashboard1)**
 
 ## Tools & Skills
 
@@ -56,8 +64,3 @@ The dashboard combines categorical, geographic, and time-series visualizations t
 ## Objective
 
 The objective of this project was to transform property listing data into an interactive Tableau dashboard that provides clear insights into pricing patterns, geographic differences, listing distribution, and revenue trends over time.
-
-## Project Files
-
-- `Tableau Project.twbx` — Tableau packaged workbook
-- `README.md` — Project documentation
